@@ -1,8 +1,9 @@
-module github.com/oschwald/maxminddb-golang/v2
+module github.com/CubicrootXYZ/maxminddb-golang
 
 go 1.23
 
 require (
+	github.com/oschwald/maxminddb-golang/v2 v2.0.0-beta.3
 	github.com/stretchr/testify v1.10.0
 	golang.org/x/sys v0.30.0
 )

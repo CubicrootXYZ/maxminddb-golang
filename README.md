@@ -1,6 +1,6 @@
 # MaxMind DB Reader for Go #
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/oschwald/maxminddb-golang/v2.svg)](https://pkg.go.dev/github.com/oschwald/maxminddb-golang/v2)
+[![Go Reference](https://pkg.go.dev/badge/github.com/CubicrootXYZ/maxminddb-golang.svg)](https://pkg.go.dev/github.com/CubicrootXYZ/maxminddb-golang)
 
 This is a Go reader for the MaxMind DB format. Although this can be used to
 read [GeoLite2](http://dev.maxmind.com/geoip/geoip2/geolite2/) and
@@ -13,7 +13,7 @@ This is not an official MaxMind API.
 ## Installation ##
 
 ```
-go get github.com/oschwald/maxminddb-golang/v2
+go get github.com/CubicrootXYZ/maxminddb-golang
 ```
 
 ## Usage ##
